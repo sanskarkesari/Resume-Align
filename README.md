@@ -65,4 +65,4 @@ cd resume-align
 ## 📞 Contact
 
 Feel free to connect for improvements or collaborations:
-📧 [your.email@example.com](sanskar4368@gmail.com)
+📧 [sanskar4368@gmail.com](sanskar4368@gmail.com)

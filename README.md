@@ -4,7 +4,7 @@
 
 This project is a Natural Language Processing (NLP) based tool designed to **extract information from resumes** and **match the skills of candidates with appropriate job categories**. By using named entity recognition, pattern matching, and vector similarity techniques, this tool automates resume screening and categorization to improve the hiring process.
 
----
+--- 
 
 ## 🔍 Features
 
